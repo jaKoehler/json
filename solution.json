@@ -1,0 +1,121 @@
+{
+  "loading_devices": [
+    {
+      "number": "Euro 1",
+      "name": "Custom Euro Pallet",
+      "length": 1200,
+      "height": 144,
+      "width": 800
+    }
+  ],
+  "orderItems": [
+    {
+      "description": "Item 01",
+      "length": 600,
+      "height": 400,
+      "width": 300,
+      "weight": 300,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": "#ff8800"
+    },
+    {
+      "description": "Item 02030405",
+      "length": 600,
+      "height": 400,
+      "width": 300,
+      "weight": 200,
+      "position": {
+        "x": 600,
+        "y": 0,
+        "z": 500
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": "#42d2af"
+    },
+    {
+      "description": "Item 02",
+      "length": 600,
+      "height": 400,
+      "width": 300,
+      "weight": 100,
+      "position": {
+        "x": -1200,
+        "y": 0,
+        "z": 500
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": "#42d2af"
+    },
+    {
+      "description": "Item 02",
+      "length": 600,
+      "height": 400,
+      "width": 300,
+      "weight": 400,
+      "position": {
+        "x": -1200,
+        "y": 0,
+        "z": -800
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": "#42d2af"
+    },
+    {
+      "description": "Item 02",
+      "length": 600,
+      "height": 400,
+      "width": 300,
+      "weight": 500,
+      "position": {
+        "x": 600,
+        "y": 0,
+        "z": -800
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": "#8800ff"
+    },
+    {
+      "description": "Item 03",
+      "length": 600,
+      "height": 500,
+      "width": 300,
+      "weight": 600,
+      "position": {
+        "x": -600,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": "green"
+    }
+  ]
+}
